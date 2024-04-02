@@ -1,5 +1,5 @@
 <img src="https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-blue-minimalist-technology-computer-banner-image_178469.jpg">
-h1 align="center">Hi 👋, I'm Likitha R</h1>
+<h1 align="center">Hi 👋, I'm Likitha R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
