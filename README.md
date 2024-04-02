@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif">
+<img src="https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-blue-minimalist-technology-computer-banner-image_178469.jpg">
 
 <h1 align="center">Hi 👋, I'm Likitha R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
